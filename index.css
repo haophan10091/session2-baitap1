@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 1px solid black;
+}
+.content{
+    margin: 20px;
+    
+    background-color:rgb(182, 179, 179) ;
+    padding: 20px;
+}
+h1, .image{
+    text-align: center;
+
+}
+.image{
+    margin: auto;
+    padding: 10px 0;
+    height: 200px;
+    width: 350px;
+}
+.image img{
+    height: 100%;
+    width: 100%;
+    
+}
+.text{
+    display: inline;
+}
